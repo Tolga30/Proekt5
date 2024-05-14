@@ -1,0 +1,201 @@
+.informative_tag{
+    position: absolute;
+    background-color: rgb(180, 0, 180);
+    color:white;
+    width: 225px;
+    text-align: center;
+    font-size: large;
+    padding: 4px;
+    top:-40px;
+}
+
+
+
+
+
+
+
+
+.section_4{
+    margin: auto;
+    display: flex;
+    width: 1208px;
+    margin-top: 70px;
+    height: 300px;
+    margin-bottom: 20px;
+    border: solid;
+    position:relative;
+}
+
+.bottom_section_div{
+    display: flex;
+    width: 1800px;
+    margin: auto;
+    
+}
+
+.bottom_image_div{
+    height: 300px;
+    text-align: center;
+}
+.bottom_image{
+
+    height: 300px;
+    width: 349px;
+    object-fit: cover;
+    margin:auto;
+}
+
+.banner_text_div{
+    background-color: rgb(11, 110, 87);
+    width: 859px;
+}
+
+.bottom_paragraph_title{
+    color: white;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 15px;
+    font-size:160%
+    
+}
+
+.bottom_paragraph_content{
+    
+    font-size:140%;
+    text-align: center;
+    line-height: 33px;
+    color: white;
+    margin:auto;
+    width: 680px;
+    height: 200px;
+}
+
+.bottom-liner{
+    display: flex;
+    background-color:rgb(48, 48, 48);
+    height: 60px;
+    color: white;
+    font-size: large;
+    margin: auto;
+
+    
+}
+
+.project-bottom-liner{
+    margin-top: 0px;
+    padding-top:20px;
+    padding-left: 20px;
+}
+
+.button_4_div{
+    margin: auto;
+    text-align: center;
+    position: absolute;
+    bottom: 20px;
+    width: 855px;
+}
+
+.section_4_button{
+    background-color: black;
+    color: white;
+    height: 40px;
+    width:140px;
+    border:none;
+    border-radius: 20px;
+    width: 160px;
+    height: 45px;
+    transition: 0.2s;
+}
+
+.section_4_button:hover{
+    width: 170px;
+    transition: 0.2s;
+}
+
+
+
+.section_5{
+    margin: auto;
+    display: flex;
+    width: 1208px;
+    height: 300px;
+    margin-bottom: 30px;
+    background-color: rgb(14, 14, 14);
+    position: relative;
+    border-bottom: solid;
+    border: solid;
+}
+
+
+.bottom_image_div_2{
+    height: 294px;
+    text-align: center;
+}
+
+.bottom_image_2{
+    height: 291px;
+    width: 337px;
+    border: solid;
+    object-fit: cover;
+    margin:auto;
+}
+
+
+.bottom_paragraph_title_2{
+    color: rgb(145, 222, 255);
+    text-align: center;
+    margin-top: 15px;
+    font-size:160%;
+    margin-bottom: 10px;
+}
+
+.bottom_paragraph_content_2{
+    font-size:140%;
+    text-align: center;
+    line-height: 33px;
+    color: rgb(145, 222, 255);
+    margin:auto;
+    width: 680px;
+}
+
+.button_div_5{
+    text-align: center;
+    position:absolute;
+    bottom: 20px;
+    width: 855px;
+
+}
+.section_5_button{
+    background-color: rgb(37, 37, 37);
+    color: rgb(145, 222, 255);
+    height: 40px;
+    width:140px;
+    border:none;
+    border-radius: 20px;
+    width: 160px;
+    height: 45px;
+    transition: 0.2s;
+}
+
+.section_5_button:hover{
+    width:170px;
+    transition: 0.2s;
+}
+
+
+.testpest {
+    border-bottom: solid;
+    border-width: 3px;
+    width: 1200px;
+    margin: auto;
+    margin-bottom: 60px;
+    margin-top: 40px;
+}
+
+
+.div_main_content{
+    width: 859px;
+
+
+}

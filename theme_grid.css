@@ -1,0 +1,19 @@
+.theme_grid{
+    display:grid;
+    grid-template-columns: 420px 420px;
+    grid-gap: 20px;
+    align-content: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+.picture_grid{
+    height: 300px;   
+    transition: 0.7s;
+}
+
+.picture_grid:hover{
+    height: 305px;
+    transition: 0.7s;
+}

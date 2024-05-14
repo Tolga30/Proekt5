@@ -1,0 +1,149 @@
+img{
+    height: 400px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    box-shadow: 0px 0px 4px rgb(0, 0, 0);
+}
+
+.main_title{
+    width: 1200px;
+    margin: auto;
+    border-width: 1px;
+    background-color: white;
+    box-shadow: 0px 0px 4px rgb(0, 0, 0);
+}
+
+.main_title_text{
+    margin-bottom: 0px;
+    padding-left: 15px;
+    padding-top: 12px;
+    padding-right: 15px;
+}
+
+.main_title_info{
+    display: flex;
+    padding-bottom: 7px;
+    padding-left: 15px;
+}
+
+
+
+
+.paragraph_section{
+    margin: auto;
+    margin-top: 40px;
+    width: 1200px;
+    border-width: 1px;
+    background-color: white;
+    box-shadow: 0px 0px 4px rgb(0, 0, 0);;
+
+}
+
+.paragraph_one{
+    padding: 15px;
+}
+
+.paragraph_one p{
+    font-size: 22px;
+    margin-top: 14px;
+    margin-bottom: 27px;
+    text-align: justify;
+}
+.paragraph_one h2{
+    margin-bottom: 24px;
+    margin-top: 40px;
+
+}
+
+.paragraph_photo_one{
+    border: none;
+}
+
+
+
+
+.video_player_div{
+    border: solid;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    height:max-content;
+    background-color: rgb(37, 37, 37);
+}
+
+
+
+.last_section{
+    width: 1200px;
+    margin: auto;
+    border-width: 1px;
+    background-color: white;
+    box-shadow: 0px 0px 4px rgb(0, 0, 0);;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.last_links_text{
+    padding: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin: 0px;
+
+}
+
+
+.last_links_info{
+    display: flex;
+    padding-bottom: 7px;
+    padding-left: 15px;
+}
+
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 110px;
+    font-size: large;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #dfdfdf;
+    text-align: left;
+    text-align: center;
+}
+
+th {
+    background-color: #fafafa;
+}
+
+.general {
+    background-color: #ffffff;
+}
+
+
+
+
+
+
+
+
+        
+.multiple_pictures{
+    display: grid;
+    grid-template-columns: 250px 250px;
+    column-gap: 30px;
+    margin-top: 10px;
+    margin-bottom: 1px;
+    justify-content:center;
+}
+
+.multiple_photos_data{
+    display: flex;
+    height: 250px;
+    margin-top:10px;
+    margin-bottom: 20px;
+}
